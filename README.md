@@ -1,4 +1,3 @@
-
 # National Cybersecurity CTF Hackathon: Operation Trace Walkthrough  
 *Forensic Analysis Challenge Solution*
 
@@ -10,6 +9,8 @@ Operation Trace simulates a compromised system (Node #47) where cold wallets wer
 - Disk image recovery
 
 **Final Flag**: `flag{this_is_the_last_trace, you did it. please submit me}`
+
+**ScreenShots**:  
 
 ---
 
